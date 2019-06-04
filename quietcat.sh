@@ -1,6 +1,3 @@
-#!/bin/bash
-
-# easysploit
 #===============================================#
 # [X] AUTHOR 	: QUIETC4T                 	#
 # [X] CODED BY  : QUIETC4T		   	#
@@ -35,7 +32,7 @@ ku='\033[33;1m' #kuning
 #==========================================#
 
 #============== MENU =================#
-toilet -f ivrit 'QUIET CAT' | boxes -d cat -a hc -p h8 | lolcat
+toilet -f ivrit 'QUIET C4T'|lolcat
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     	 QUIET CAT Facebook Tools "$i"             |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
