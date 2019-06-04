@@ -7,7 +7,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 
-toilet -f ivrit 'QUIET CAT' | boxes -d cat -a hc -p h8 | lolcat
+toilet -f ivrit 'QUIET CAT'|lolcat
 sleep 1
 echo '''\a
 \033[32;1m                                          __                          
